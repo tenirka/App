@@ -1,0 +1,10 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+}
+
+.edit {
+    float: right;
+    margin-right: 60%;
+    margin-top: -150px;
+}

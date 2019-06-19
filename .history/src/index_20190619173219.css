@@ -1,0 +1,44 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+}
+
+.edit {
+    float: left;
+    margin-left: 20%;
+    margin-top: -142px;
+    height: 30px;
+}
+
+img {
+    margin-top: 15px;
+    margin-left: 53px;
+    width: 180px;
+    height: 140px;
+}
+
+.avatar {
+    margin-bottom: 20px;
+    margin-left: 120px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.accordion {
+    margin: 5%;
+    margin-top: 10px;
+}
+
+.shava {
+    /* width: 100%;
+    height: 100%; */
+    margin: 5px;
+    margin-left: 90%
+}
+
+.heart {
+    float: left;
+    /* width: 20px;
+    height: 20px; */
+}

@@ -1,0 +1,16 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+}
+
+.edit {
+    float: right;
+    margin-right: 65%;
+    margin-top: -142px;
+    height: 30px;
+}
+
+.recipe {
+    width: 18rem;
+    border-radius: 30%;
+}
