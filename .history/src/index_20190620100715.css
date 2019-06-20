@@ -1,0 +1,38 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    margin: 20px;
+}
+
+.edit {
+    float: left;
+    margin-left: 20%;
+    margin-top: -142px;
+    height: 30px;
+}
+
+.avatar {
+    margin-bottom: 20px;
+    margin-left: 120px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.accordion {
+    margin: 5%;
+    margin-top: 10px;
+}
+
+.heart {
+    float: left;
+    /* width: 20px;
+    height: 20px; */
+}
+
+.title {
+    background-color: aliceblue;
+    border-color: aliceblue;
+    border-radius: 10%;
+    height: 20px;
+    padding: -2px;
+}
