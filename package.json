@@ -10,7 +10,7 @@
     "react-edit-button": "^1.0.2",
     "react-heart-checkbox": "0.0.4",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-share": "^3.0.0",
     "styled-components": "^4.3.2"
   },
